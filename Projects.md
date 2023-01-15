@@ -1,6 +1,6 @@
 # Dashboards explaining 
-- Unemployment rate
-- Profitable states for an ecommerce business
+- Unemployment rates
+- Profitable US states for an ecommerce business
 - How to create an employees Annual Bonus Analysis system to filter and explain who gets what and why.
 - Vehicles sold across the globe between 2005-2014
 - Clustering - K means (Trend lines)
